@@ -1,0 +1,7 @@
+schema_version: "1.1"
+name: returning-rephrases-weak-spots
+expected_outcome: |
+  A returning session. Claude reads records/bitcoin.md without recapping it to the user and asks three questions that start from the weak ideas (the miner-validity misconception
+  and the supply-limit gap), each rephrased from a new angle rather than repeating the old wording.
+context:
+  scaffold_script: place-files.sh

@@ -1,0 +1,6 @@
+schema_version: "1.1"
+name: first-session-asks-three
+expected_outcome: |
+  A first session on bitcoin with no existing record. Claude asks exactly three numbered questions,
+  each on a different core idea, that need an explanation rather than recall, then stops and waits
+  without hints or answers.

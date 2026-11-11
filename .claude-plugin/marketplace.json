@@ -1,0 +1,11 @@
+{
+  "name": "eiffelfly",
+  "owner": { "name": "Po Chun Chiu", "url": "https://github.com/EiffelFly" },
+  "plugins": [
+    {
+      "name": "eiffelfly",
+      "source": "./",
+      "description": "EiffelFly's skills for Claude Code."
+    }
+  ]
+}

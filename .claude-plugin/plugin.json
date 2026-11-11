@@ -1,0 +1,8 @@
+{
+  "name": "eiffelfly",
+  "description": "EiffelFly's skills for Claude Code.",
+  "version": "0.1.0",
+  "author": { "name": "Po Chun Chiu", "url": "https://github.com/EiffelFly" },
+  "repository": "https://github.com/EiffelFly/skills",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+schema_version: "1.1"
+name: grades-and-saves-record
+expected_outcome: |
+  Claude judges how deep each answer goes: answer 1 states the mechanism (and is pushed toward the core),
+  answer 2 is a misconception (monthly compounding yields about 12.68%), answer 3 is missing and is
+  briefly taught (rule of 72, about 10 years). No praise, no score. It writes
+  records/compound-interest.md with a prose portrait, the core, a concept map, and the answers word for
+  word, then asks a new round of exactly three questions.
