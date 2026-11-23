@@ -4,7 +4,7 @@ Skills for [Claude Code](https://claude.com/claude-code) and other agents that r
 
 | Skill | What it does |
 |---|---|
-| [do-i-understand](skills/do-i-understand/SKILL.md) | Tests whether you really understand a concept. It asks crucial questions three at a time, grades your answers honestly, and keeps a record per topic so the next session goes back over what you got wrong. |
+| [do-i-understand](skills/do-i-understand/SKILL.md) | Tests whether you really understand a concept. It asks crucial questions three at a time, grades your answers honestly, and keeps a record per topic so the next session goes back over what you got wrong. This skill now continues privately; this copy is frozen. |
 
 ## Install
 
